@@ -1,0 +1,10 @@
+
+[project]
+name = "Algebraic"
+version = "0.1.0"
+authors = ["Hexaredecimal"]
+edition = "2024"
+
+[depends]
+Core = "1.0"
+        
