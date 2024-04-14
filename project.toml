@@ -1,6 +1,6 @@
 
 [project]
-name = "Algebraic"
+name = "Adt"
 version = "0.1.0"
 authors = ["Hexaredecimal"]
 edition = "2024"
